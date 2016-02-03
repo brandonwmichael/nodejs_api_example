@@ -25,6 +25,7 @@ build/Release
 
 # Dependency directory
 node_modules
+dbconn.js
 
 # Optional npm cache directory
 .npm
